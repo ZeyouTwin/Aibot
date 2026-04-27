@@ -1,0 +1,13 @@
+{
+  "name": "KBot Creative Suite",
+  "description": "A premium mobile-first AI creative hub featuring KBot, with glassmorphic design, smart tools, and high-end animations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI Image Generation",
+    "Smart Notes",
+    "Mobile productivity"
+  ]
+}
